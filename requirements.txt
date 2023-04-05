@@ -5,3 +5,5 @@ tgcrypto
 ffmpeg-python
 hurry.filesize
 git+https://github.com/asmsafone/mega.py.git
+flask
+flask_restful
